@@ -113,4 +113,5 @@ A **one-page executive dashboard** with:
 _Add screenshots here:_
 
 ```text
-/screenshots/recruitment_dashboard_overview.png
+dashboard/Screenshot 2025-12-27 023830.png
+
