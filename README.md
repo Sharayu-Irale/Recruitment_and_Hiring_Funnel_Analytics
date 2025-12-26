@@ -110,7 +110,6 @@ A **one-page executive dashboard** with:
 ---
 
 ## 📌 Dashboard Preview
-## 📌 Dashboard Preview
 
 ![Recruitment and Hiring_Funnel Analytics](dashboard/recruitment_dashboard_overview.png)
 
